@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there  👋
 
 <!--# 💫 About Me:
 Data Analyst skilled in Excel, SQL, and Power BI, with a strong ability to clean, analyze, and visualize data to support business decisions. Passionate about turning raw data into clear insights and actionable solutions.
