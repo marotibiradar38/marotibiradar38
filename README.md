@@ -7,7 +7,7 @@ Hi, I'm **Maroti Biradar**, a passionate **Data Analytics enthusiast** focused o
 🤝 Seeking help with **Advanced DAX and PostgreSQL optimization**  
 🌱 Currently learning **Python and Machine Learning fundamentals**  
 💬 Ask me about **Excel, SQL, Power BI, and Data Visualization**  
-⚡ Fun fact: *I find data cleaning strangely therapeutic!* 😄  
+⚡ Fun fact: *I find data cleaning strangely therapeutic!* 😄   
 
 ---
 
