@@ -29,13 +29,14 @@ Hi, I'm **Maroti Biradar**, a passionate **Data Analytics enthusiast** focused o
 
 ---
 
+# 🧠 Most Used Language
+![Python](https://img.shields.io/badge/Most%20Used%20Language-Python-blue?style=for-the-badge&logo=python)
+
+---
+
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=marotibiradar38&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=marotibiradar38&theme=onedark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=marotibiradar38&theme=onedark&hide_border=false&layout=compact)
-
----
 
 
