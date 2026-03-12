@@ -2,7 +2,7 @@
  # 💫 About Me:
 🔭 I’m currently working on: Developing end-to-end data analysis projects and building interactive Power BI dashboards to solve business problems.<br>👯 I’m looking to collaborate on: Open-source data science projects, SQL database optimizations, or any interesting data visualization challenges.<br>🤝 I’m looking for help with: Advanced DAX measures in Power BI and optimizing complex PostgreSQL queries.<br>🌱 I’m currently learning: Python for data automation and exploring Machine Learning fundamentals.<br>💬 Ask me about: Excel automation, SQL Joins, and how to turn raw data into actionable insights.<br>⚡ Fun fact: I actually enjoy cleaning messy datasets—it’s like solving a giant puzzle!
 
-
+ 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/maroti-biradar-9828b6375) 
 
